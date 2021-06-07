@@ -11,23 +11,41 @@ Given an adjacency matrix of a graph, we try to find an optimal sampling and int
 We also analysed the success rate of optimal and random sampling operator. We also shown that random sampling operator is also good for special graphs. For detailed information about the project and plots for different analyses read the _Team_40-Project Final Report.pdf_.
 
 **Simulating the codes**
-/-> Code
-  |
-  --> erdoys_renyi_success_rate.m  
-  --> optimal_sampling_operator.m 
-  --> qualified_vs_optimal_samp_oper.m
-  --> sampling_graphs.m
-  --> success_Rate_optimal_Vs_random.m
-  --> success_Rate_vs_bandwidth.m
+
+	/-> Code
+
+		|
+
+		--> erdoys_renyi_success_rate.m
+
+		--> optimal_sampling_operator.m 
+
+		--> qualified_vs_optimal_samp_oper.m
+
+		--> sampling_graphs.m
+
+		--> success_Rate_optimal_Vs_random.m
+
+		--> success_Rate_vs_bandwidth.m
+
 Run  _file name_ in the matlab command window.
 
-**Results**
-/-> Results
-  |
-  --> Erdoys-renyi success rate.png
-  --> Optimal Vs Qualified sampling operator error in presence of noise.png
-  --> Optimal and random sampling Vs no of samples.png
-  --> Random sampling operator success rate Vs bandwidth.png
-  --> Sampling_on_graphs-original signal.png
-  --> Sampling_on_graphs-reconstructed signal.png
-  --> Sampling_on_graphs-sampled signal.png
+**Result (Simulations of the project) **
+
+	/-> Results
+	
+		|
+  
+		--> Erdoys-renyi success rate.png
+			
+		--> Optimal Vs Qualified sampling operator error in presence of noise.png
+		
+  		--> Optimal and random sampling Vs no of samples.png
+  		
+		--> Random sampling operator success rate Vs bandwidth.png
+  		
+		--> Sampling_on_graphs-original signal.png
+  		
+		--> Sampling_on_graphs-reconstructed signal.png
+  		
+		--> Sampling_on_graphs-sampled signal.png
