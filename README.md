@@ -1,6 +1,7 @@
 # Sampling-on-graph-signals
 A project for performing sampling on graph signals.
 
+
 This project proposes sampling theory for graph signals that are supported on directed or
 undirected graphs. With the proposed sampling theory, perfect recovery is possible for the
 bandlimited graph signals from its sampled signal. Designing the sampling operator using
